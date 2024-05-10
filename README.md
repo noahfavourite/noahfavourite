@@ -1,6 +1,6 @@
 👋Hello! My name is Favour. 
 
-👩🏽‍💻Im currently working on building my data analytics skills in R, SQL, Excel, PowerBi, Tableau and Python. 
+👩🏽‍💻I'm a data analyst who likes uncovering insights and driving impact
 
 💗I love watching movies and reading books
 
