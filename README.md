@@ -1,4 +1,4 @@
-👋Hello! My name is Favour. 
+👋Hello! My name is Favour
 
 👩🏽‍💻I'm a data analyst who likes uncovering insights and driving impact
 
