@@ -2,7 +2,7 @@
 
 👩🏽‍💻I'm a data analyst who likes uncovering insights, telling story with data and driving impact
 
-⭐️I'm currently working on projects to challenge myself and grow my data anlytics skills
+⭐️I'm currently working on projects to challenge myself and grow my data analysis skills
 
 💗I love watching movies and reading books
 
