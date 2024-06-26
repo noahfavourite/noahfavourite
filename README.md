@@ -1,6 +1,7 @@
-👋Hello! My name is Favour
+👋Hey there!!!
 
-👩🏽‍💻I'm a data analyst who is passionate about uncovering insights, telling story with data and driving impact
+👩🏽‍💻I'm a data enthusiast passionate about uncovering insights, telling story with data and driving impact. I love exploring and simplifying data to provide solutions to businesses
+
 
 ⭐️I'm currently working on projects to challenge myself and grow my data analysis skills
 
