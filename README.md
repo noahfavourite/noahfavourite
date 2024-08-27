@@ -1,3 +1,4 @@
+![Uploading Black and White Simple Art Director LinkedIn Banner.png…]()
 # Hi, I'm Favour Noah Timighe 
 
 I am a passionate data analyst with a strong background in SQL development and data visualization. I enjoy transforming data into actionable insights and crafting data-driven solutions. My expertise lies in analyzing complex datasets, building dashboards, and optimizing SQL queries to ensure efficient data processing.
