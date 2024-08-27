@@ -1,4 +1,4 @@
-![Uploading Black and White Simple Art Director LinkedIn Banner.png…]()
+![Black and White Simple Art Director LinkedIn Banner](https://github.com/user-attachments/assets/b924f784-4a00-4722-86be-4aeec532bb6d)
 # Hi, I'm Favour Noah Timighe 
 
 I am a passionate data analyst with a strong background in SQL development and data visualization. I enjoy transforming data into actionable insights and crafting data-driven solutions. My expertise lies in analyzing complex datasets, building dashboards, and optimizing SQL queries to ensure efficient data processing.
@@ -20,10 +20,8 @@ I am a passionate data analyst with a strong background in SQL development and d
 
 ## 📫 Let's Connect!
 
-- [LinkedIn](#)
-- [Twitter](#)
-- [Email](mailto:youremail@example.com)
+- [LinkedIn](http://www.linkedin.com/in/favour-noah-timighe)
+- [Twitter](https://x.com/noahfavourite_?s=21&t=Hpn0jqIyeg1p4k-5bKawsQ)
+- [Email](noahfavourite@gmail.com)
 
----
 
-*Driven by data, motivated by insights.* 🌟
