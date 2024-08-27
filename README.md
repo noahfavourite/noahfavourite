@@ -5,7 +5,7 @@ I am a passionate data analyst with a strong background in SQL development and d
 
 ## 🚀 Skills & Technologies
 
-- **Data Analysis:** Excel, Power BI, SQL
+- **Data Analysis:** SQL, Excel, Power BI
 - **SQL Development:** Advanced SQL, Query Optimization
 - **Data Management Systems:** PostgreSQL, MySQL, Microsoft SQL Server
 - **Data Visualization:** Power BI, Excel
