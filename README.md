@@ -1,4 +1,4 @@
-![Black and White Simple Art Director LinkedIn Banner](https://github.com/user-attachments/assets/b924f784-4a00-4722-86be-4aeec532bb6d)
+
 # Hi, I'm Favour Noah Timighe 
 
 I am a passionate data analyst with a strong background in SQL development and data visualization. I enjoy transforming data into actionable insights and crafting data-driven solutions. My expertise lies in analyzing complex datasets, building dashboards, and optimizing SQL queries to ensure efficient data processing.
@@ -9,7 +9,6 @@ I am a passionate data analyst with a strong background in SQL development and d
 - **SQL Development:** Advanced SQL, Query Optimization
 - **Data Management Systems:** PostgreSQL, MySQL, Microsoft SQL Server
 - **Data Visualization:** Power BI, Excel
-- **Tools:** Google Workspace, Microsoft Office Suite, Asana, Notion, Microsoft Teams, Canva
 - **Other Skills:** Data Entry, Project Management, Stakeholder Management, Problem-Solving, Internet Research
 
 ## 🌱 Interests
