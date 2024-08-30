@@ -1,7 +1,7 @@
 
 # Hi, I'm Favour Noah Timighe 
 
-I am a passionate data analyst with a strong background in SQL development and data visualization. I enjoy transforming data into actionable insights and crafting data-driven solutions. My expertise lies in analyzing complex datasets, building dashboards, and optimizing SQL queries to ensure efficient data processing.
+I am a passionate data analyst with a strong background in data management, SQL development and data visualization. I enjoy transforming data into actionable insights and crafting data-driven solutions. My expertise lies in analyzing complex datasets, optimizing SQL queries, and to build intuitive and impactful reports to ensure efficient data processing and to deliver analytics that drive informed decision-making.
 
 ## 🚀 Skills & Technologies
 
