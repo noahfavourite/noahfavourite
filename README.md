@@ -11,12 +11,6 @@ I am a passionate data analyst with a strong background in data management, SQL 
 - **Data Visualization:** Power BI, Excel
 - **Other Skills:** Data Entry, Project Management, Stakeholder Management, Problem-Solving, Internet Research
 
-## 🌱 Interests
-
-- Big Data & Analytics
-- Continuous Learning & Professional Development
-- Contributing to Open Source Projects
-
 ## 📫 Let's Connect!
 
 - [LinkedIn](http://www.linkedin.com/in/favour-noah-timighe)
