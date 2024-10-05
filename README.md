@@ -9,7 +9,6 @@ I enjoy transforming data into actionable insights and crafting data-driven solu
 - **SQL Development:** Advanced SQL, Query Optimization
 - **Data Management Systems:** PostgreSQL, MySQL, Microsoft SQL Server
 - **Data Visualization:** Power BI, Excel
-- **Other Skills:** Data Entry, Project Management, Stakeholder Management, Problem-Solving, Internet Research
 
 ## 📫 Let's Connect!
 
