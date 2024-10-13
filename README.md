@@ -1,7 +1,7 @@
 
 # Hi, I'm Favour Noah Timighe 
 
-I enjoy transforming data into actionable insights and crafting data-driven solutions. My expertise lies in analyzing complex datasets, optimizing SQL queries, and building intuitive and impactful reports to ensure efficient data processing and deliver analytics that drive informed decision-making
+I am a problem solver. I enjoy transforming data into actionable insights and crafting data-driven solutions. My expertise lies in analyzing complex datasets, optimizing SQL queries, and building intuitive and impactful reports to ensure efficient data processing and deliver analytics that drive informed decision-making
 
 ## 🚀 Skills & Technologies
 
